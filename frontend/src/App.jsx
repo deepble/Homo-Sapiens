@@ -1,4 +1,3 @@
-// frontend/src/App.jsx
 import React, { useState, useEffect, useRef } from "react";
 import * as paillierBigint from "paillier-bigint";
 import { Radar } from "react-chartjs-2";
